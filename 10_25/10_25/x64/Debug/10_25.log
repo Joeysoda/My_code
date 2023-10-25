@@ -1,0 +1,5 @@
+﻿  10_25.cpp
+D:\bit\bit_study\C_language\selfstudy\10_25\10_25\10_25.cpp(17,8): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+D:\bit\bit_study\C_language\selfstudy\10_25\10_25\10_25.cpp(17,8): message : 占位符和其参数预计 2 可变参数，但提供的却是 0 参数
+D:\bit\bit_study\C_language\selfstudy\10_25\10_25\10_25.cpp(17,8): message : 缺失的可变参数 1 为格式字符串“%d”所需
+  10_25.vcxproj -> D:\bit\bit_study\C_language\selfstudy\10_25\x64\Debug\10_25.exe
