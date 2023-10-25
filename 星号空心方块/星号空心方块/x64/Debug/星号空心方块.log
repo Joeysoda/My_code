@@ -1,0 +1,6 @@
+﻿  空心方块.cpp
+D:\bit\bit_study\C_language\selfstudy\星号空心方块\星号空心方块\空心方块.cpp(17,33): warning C4305: “=”: 从“int”到“char”截断
+D:\bit\bit_study\C_language\selfstudy\星号空心方块\星号空心方块\空心方块.cpp(17,33): warning C4309: “=”: 截断常量值
+D:\bit\bit_study\C_language\selfstudy\星号空心方块\星号空心方块\空心方块.cpp(20,33): warning C4305: “=”: 从“int”到“char”截断
+D:\bit\bit_study\C_language\selfstudy\星号空心方块\星号空心方块\空心方块.cpp(20,33): warning C4309: “=”: 截断常量值
+  星号空心方块.vcxproj -> D:\bit\bit_study\C_language\selfstudy\星号空心方块\x64\Debug\星号空心方块.exe
