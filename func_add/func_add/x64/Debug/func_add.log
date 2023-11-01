@@ -1,0 +1,5 @@
+﻿  add.c
+  text.c
+D:\bit\bit_study\C_language\selfstudy\func_add\func_add\text.c(7,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  正在生成代码...
+  func_add.vcxproj -> D:\bit\bit_study\C_language\selfstudy\func_add\x64\Debug\func_add.exe
