@@ -1,0 +1,5 @@
+﻿  1.00.cpp
+D:\bit\bit_study\C_language\selfstudy\ptr_1.00\ptr_1.00\1.00.cpp(17,8): warning C4305: “=”: 从“int”到“char”截断
+D:\bit\bit_study\C_language\selfstudy\ptr_1.00\ptr_1.00\1.00.cpp(17,8): warning C4309: “=”: 截断常量值
+D:\bit\bit_study\C_language\selfstudy\ptr_1.00\ptr_1.00\1.00.cpp(18,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+  ptr_1.00.vcxproj -> D:\bit\bit_study\C_language\selfstudy\ptr_1.00\Debug\ptr_1.00.exe
