@@ -1,0 +1,3 @@
+﻿  const.cpp
+D:\bit\bit_study\C_language\selfstudy\ptr\ptr\const.cpp(17,10): error C2440: “初始化”: 无法从“const int *”转换为“int *”
+D:\bit\bit_study\C_language\selfstudy\ptr\ptr\const.cpp(17,10): message : 转换丢失限定符
